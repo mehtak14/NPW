@@ -1,0 +1,296 @@
+{
+    "GCP": {
+        "nodes": [
+            {
+                "name": "GCP",
+                "primary": "1"
+            },
+            {
+                "name": "AWS",
+                "primary": "0"
+            },
+            {
+                "name": "Azure",
+                "primary": "0"
+            },
+            {
+                "name": "Multicloud",
+                "primary": "0"
+            },
+            {
+                "name": "Devops",
+                "primary": "0"
+            },
+            {
+                "name": "Kubernetes",
+                "primary": "0"
+            },
+            {
+                "name": "Opensource",
+                "primary": "0"
+            },
+            {
+                "name": "Python",
+                "primary": "0"
+            },
+            {
+                "name": "Cloudsecurity",
+                "primary": "0"
+            },
+            {
+                "name": "Breachprevention",
+                "primary": "0"
+            },
+            {
+                "name": "Containers",
+                "primary": "0"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 1,
+                "weight": "130"
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "weight": "120"
+            },
+            {
+                "source": 0,
+                "target": 3,
+                "weight": "62"
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "weight": "56"
+            },
+            {
+                "source": 0,
+                "target": 5,
+                "weight": "28"
+            },
+            {
+                "source": 0,
+                "target": 6,
+                "weight": "24"
+            },
+            {
+                "source": 0,
+                "target": 7,
+                "weight": "24"
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "weight": "22"
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "weight": "21"
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "weight": "21"
+            }
+        ],
+        "text": ""
+    },
+    "AWS": {
+        "nodes": [
+            {
+                "name": "AWS",
+                "primary": "1"
+            },
+            {
+                "name": "Azure",
+                "primary": "0"
+            },
+            {
+                "name": "Devops",
+                "primary": "0"
+            },
+            {
+                "name": "GCP",
+                "primary": "0"
+            },
+            {
+                "name": "Cybersecurity",
+                "primary": "0"
+            },
+            {
+                "name": "Python",
+                "primary": "0"
+            },
+            {
+                "name": "Multicloud",
+                "primary": "0"
+            },
+            {
+                "name": "Bigdata",
+                "primary": "0"
+            },
+            {
+                "name": "Cloudsecurity",
+                "primary": "0"
+            },
+            {
+                "name": "AI",
+                "primary": "0"
+            },
+            {
+                "name": "Hybridcloud",
+                "primary": "0"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 1,
+                "weight": "350"
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "weight": "180"
+            },
+            {
+                "source": 0,
+                "target": 3,
+                "weight": "130"
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "weight": "120"
+            },
+            {
+                "source": 0,
+                "target": 5,
+                "weight": "110"
+            },
+            {
+                "source": 0,
+                "target": 6,
+                "weight": "94"
+            },
+            {
+                "source": 0,
+                "target": 7,
+                "weight": "85"
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "weight": "85"
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "weight": "76"
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "weight": "75"
+            }
+        ],
+        "text": ""
+    },
+    "Azure": {
+        "nodes": [
+            {
+                "name": "Azure",
+                "primary": "1"
+            },
+            {
+                "name": "AWS",
+                "primary": "0"
+            },
+            {
+                "name": "Multicloud",
+                "primary": "0"
+            },
+            {
+                "name": "Devops",
+                "primary": "0"
+            },
+            {
+                "name": "Hybridcloud",
+                "primary": "0"
+            },
+            {
+                "name": "GCP",
+                "primary": "0"
+            },
+            {
+                "name": "Cybersecurity",
+                "primary": "0"
+            },
+            {
+                "name": "Python",
+                "primary": "0"
+            },
+            {
+                "name": "Cybersecurity",
+                "primary": "0"
+            },
+            {
+                "name": "AI",
+                "primary": "0"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 1,
+                "weight": "350"
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "weight": "320"
+            },
+            {
+                "source": 0,
+                "target": 3,
+                "weight": "210"
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "weight": "150"
+            },
+            {
+                "source": 0,
+                "target": 5,
+                "weight": "120"
+            },
+            {
+                "source": 0,
+                "target": 6,
+                "weight": "110"
+            },
+            {
+                "source": 0,
+                "target": 7,
+                "weight": "100"
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "weight": "95"
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "weight": "93"
+            }
+        ],
+        "text": ""
+    }
+}
