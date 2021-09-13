@@ -1,0 +1,173 @@
+{
+    "data": [
+        [
+            {
+                "start_date": "15-06-2021",
+                "end_date": "21-06-2021",
+                "name": "Cloud",
+                "Frequency": "3846"
+            },
+            {
+                "start_date": "15-06-2021",
+                "end_date": "21-06-2021",
+                "name": "Security",
+                "Frequency": "318"
+            },
+            {
+                "start_date": "15-06-2021",
+                "end_date": "21-06-2021",
+                "name": "Cybersecurity",
+                "Frequency": "245"
+            }
+        ],
+        [
+            {
+                "start_date": "22-06-2021",
+                "end_date": "28-06-2021",
+                "name": "Cloud",
+                "Frequency": "4142"
+            },
+            {
+                "start_date": "22-06-2021",
+                "end_date": "28-06-2021",
+                "name": "Security",
+                "Frequency": "331"
+            },
+            {
+                "start_date": "22-06-2021",
+                "end_date": "28-06-2021",
+                "name": "Cybersecurity",
+                "Frequency": "270"
+            }
+        ],
+        [
+            {
+                "start_date": "29-06-2021",
+                "end_date": "05-07-2021",
+                "name": "Cloud",
+                "Frequency": "2926"
+            },
+            {
+                "start_date": "29-06-2021",
+                "end_date": "05-07-2021",
+                "name": "Security",
+                "Frequency": "202"
+            },
+            {
+                "start_date": "29-06-2021",
+                "end_date": "05-07-2021",
+                "name": "Cybersecurity",
+                "Frequency": "192"
+            }
+        ],
+        [
+            {
+                "start_date": "06-07-2021",
+                "end_date": "12-07-2021",
+                "name": "Cloud",
+                "Frequency": "3513"
+            },
+            {
+                "start_date": "06-07-2021",
+                "end_date": "12-07-2021",
+                "name": "Security",
+                "Frequency": "262"
+            },
+            {
+                "start_date": "06-07-2021",
+                "end_date": "12-07-2021",
+                "name": "Cybersecurity",
+                "Frequency": "187"
+            }
+        ],
+        [
+            {
+                "start_date": "13-07-2021",
+                "end_date": "19-07-2021",
+                "name": "Cloud"
+            },
+            {
+                "start_date": "13-07-2021",
+                "end_date": "19-07-2021",
+                "name": "Security"
+            },
+            {
+                "start_date": "13-07-2021",
+                "end_date": "19-07-2021",
+                "name": "Cybersecurity"
+            }
+        ],
+        [
+            {
+                "start_date": "20-07-2021",
+                "end_date": "26-07-2021",
+                "name": "Cloud"
+            },
+            {
+                "start_date": "20-07-2021",
+                "end_date": "26-07-2021",
+                "name": "Security"
+            },
+            {
+                "start_date": "20-07-2021",
+                "end_date": "26-07-2021",
+                "name": "Cybersecurity"
+            }
+        ],
+        [
+            {
+                "start_date": "27-07-2021",
+                "end_date": "02-08-2021",
+                "name": "Cloud"
+            },
+            {
+                "start_date": "27-07-2021",
+                "end_date": "02-08-2021",
+                "name": "Security"
+            },
+            {
+                "start_date": "27-07-2021",
+                "end_date": "02-08-2021",
+                "name": "Cybersecurity"
+            }
+        ],
+        [
+            {
+                "start_date": "03-08-2021",
+                "end_date": "04-08-2021",
+                "name": "Cloud"
+            },
+            {
+                "start_date": "03-08-2021",
+                "end_date": "04-08-2021",
+                "name": "Security"
+            },
+            {
+                "start_date": "03-08-2021",
+                "end_date": "04-08-2021",
+                "name": "Cybersecurity"
+            }
+        ],
+        [
+            {
+                "start_date": "",
+                "name": "Cloud"
+            },
+            {
+                "start_date": "",
+                "name": "Security"
+            },
+            {
+                "start_date": "",
+                "name": "Cybersecurity"
+            }
+        ]
+    ],
+    "text": [
+        "",
+        "",
+        "",
+        "",
+        "From July 27, the topic of cybersecurity has assumed center-stage. This coincides with a spate of cybersecurity incidents that have become centerstage in US government policy teams."
+    ]
+}
