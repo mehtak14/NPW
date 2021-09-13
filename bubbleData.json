@@ -45,13 +45,13 @@
                 "start_date": "29-06-2021",
                 "end_date": "05-07-2021",
                 "name": "Cloud",
-                "Frequency": "2926"
+                "Frequency": "3445"
             },
             {
                 "start_date": "29-06-2021",
                 "end_date": "05-07-2021",
                 "name": "Security",
-                "Frequency": "202"
+                "Frequency": "75"
             },
             {
                 "start_date": "29-06-2021",
@@ -65,13 +65,13 @@
                 "start_date": "06-07-2021",
                 "end_date": "12-07-2021",
                 "name": "Cloud",
-                "Frequency": "3513"
+                "Frequency": "1560"
             },
             {
                 "start_date": "06-07-2021",
                 "end_date": "12-07-2021",
                 "name": "Security",
-                "Frequency": "262"
+                "Frequency": "202"
             },
             {
                 "start_date": "06-07-2021",
@@ -84,82 +84,80 @@
             {
                 "start_date": "13-07-2021",
                 "end_date": "19-07-2021",
-                "name": "Cloud"
+                "name": "Cloud",
+                "Frequency": "1505"
             },
             {
                 "start_date": "13-07-2021",
                 "end_date": "19-07-2021",
-                "name": "Security"
+                "name": "Security",
+                "Frequency": "262"
             },
             {
                 "start_date": "13-07-2021",
                 "end_date": "19-07-2021",
-                "name": "Cybersecurity"
+                "name": "Cybersecurity",
+                "Frequency": "177"
             }
         ],
         [
             {
                 "start_date": "20-07-2021",
                 "end_date": "26-07-2021",
-                "name": "Cloud"
+                "name": "Cloud",
+                "Frequency": "2926"
             },
             {
                 "start_date": "20-07-2021",
                 "end_date": "26-07-2021",
-                "name": "Security"
+                "name": "Security",
+                "Frequency": "245"
             },
             {
                 "start_date": "20-07-2021",
                 "end_date": "26-07-2021",
-                "name": "Cybersecurity"
+                "name": "Cybersecurity",
+                "Frequency": "78"
             }
         ],
         [
             {
                 "start_date": "27-07-2021",
                 "end_date": "02-08-2021",
-                "name": "Cloud"
+                "name": "Cloud",
+                "Frequency": "3513"
             },
             {
                 "start_date": "27-07-2021",
                 "end_date": "02-08-2021",
-                "name": "Security"
+                "name": "Security",
+                "Frequency": "99"
             },
             {
                 "start_date": "27-07-2021",
                 "end_date": "02-08-2021",
-                "name": "Cybersecurity"
+                "name": "Cybersecurity",
+                "Frequency": "815"
             }
         ],
         [
             {
                 "start_date": "03-08-2021",
                 "end_date": "04-08-2021",
-                "name": "Cloud"
+                "name": "Cloud",
+                "Frequency": "591"
             },
             {
                 "start_date": "03-08-2021",
                 "end_date": "04-08-2021",
-                "name": "Security"
+                "name": "Security",
+                "Frequency": "250"
             },
             {
                 "start_date": "03-08-2021",
                 "end_date": "04-08-2021",
-                "name": "Cybersecurity"
-            }
-        ],
-        [
-            {
-                "start_date": "",
-                "name": "Cloud"
-            },
-            {
-                "start_date": "",
-                "name": "Security"
-            },
-            {
-                "start_date": "",
-                "name": "Cybersecurity"
+                "name": "Cybersecurity",
+                "Frequency": "184"
             }
         ]
     ],
@@ -167,7 +165,10 @@
         "",
         "",
         "",
+        "From July 27, the topic of cybersecurity has assumed center-stage. This coincides with a spate of cybersecurity incidents that have become centerstage in US government policy teams.",
         "",
-        "From July 27, the topic of cybersecurity has assumed center-stage. This coincides with a spate of cybersecurity incidents that have become centerstage in US government policy teams."
+        "",
+        "",
+        "\"Data privacy, information governance, and cybersecurity needs to be thought of as a continuous process, not a 'one and done' action,\" said influential cybersecurity expert, Dean Gonsowski."
     ]
 }
