@@ -1,0 +1,41 @@
+[
+    {
+        "name":"AWS",
+        "text" : "Q1-Q4 2020: AWS business is much larger, and yet on that larger base, its growth rate has been steady throughout 2020",
+        "2019 Q1" : "7.7",
+        "2019 Q2" : "8.4",
+        "2019 Q3" : "9",
+        "2019 Q4" : "10",
+        "2020 Q1" : "10.2",
+        "2020 Q2" : "10.8",
+        "2020 Q3" : "11.6",
+        "2020 Q4" : "12.7",
+        "2021 Q1" : "13.5"
+    },
+    {
+        "name":"Azure",
+        "text" : "Q3 2019: Azure was found to have many security vulnerabilities, which slowed its growth",
+        "2019 Q1" : "8.6",
+        "2019 Q2" : "11.6",
+        "2019 Q3" : "9.7",
+        "2019 Q4" : "11.9",
+        "2020 Q1" : "13.3",
+        "2020 Q2" : "14.3",
+        "2020 Q3" : "15.2",
+        "2020 Q4" : "16.7",
+        "2021 Q1" : "17.7"
+    },
+    {
+        "name":"GoogleCloud",
+        "text" : "Q1 2020: GCP got a big pandemic-driven boost as it bagged many new clients who wanted to shift to the cloud",
+        "2019 Q1" : "0",
+        "2019 Q2" : "0",
+        "2019 Q3" : "0",
+        "2019 Q4" : "0",
+        "2020 Q1" : "2.8",
+        "2020 Q2" : "3",
+        "2020 Q3" : "3.4",
+        "2020 Q4" : "3.8",
+        "2021 Q1" : "4"
+    }
+]
